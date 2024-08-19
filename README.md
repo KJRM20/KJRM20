@@ -26,7 +26,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KJRM20&show_icons=true&locale=en&layout=compact" alt="KJRM20" height="150" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KJRM20&show_icons=true&locale=en" alt="KJRM20" height="150" />
 </p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 
 <p align="center"><small>Last edit: 08/19/2024</small></p>
