@@ -2,10 +2,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Karen Rincón</h1>
 <h3 align="center">Multimedia Engineer | Software Developer | Web Developer</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/karen-rincon/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@karenrinconjm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-<a href = "mailto: karenrinconjm2016@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karen-rincon/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="linkedIn" height="40" width="40" /></a>
+<a href = "mailto: karenrinconjm2016@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@karenrinconjm" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube" height="40" width="40" /></a>
+<a href="https://www.behance.net/karenjrincon" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Y6JKFKydve3L&format=png&color=000000" alt="Behance" height="40" width="40" /></a>
 </p>
 <br>
 <p align="center">
